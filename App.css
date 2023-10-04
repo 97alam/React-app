@@ -1,0 +1,16 @@
+*{
+  background-color: rgb(199, 216, 216);
+}
+h1{
+text-align: center;
+color: palevioletred;
+background-color: royalblue;
+width: 100vw;
+height: 5vw;
+line-height: center;
+margin-top: 40vh;
+font-size: 3vw;
+}
+span{
+  background-color: royalblue;
+}
